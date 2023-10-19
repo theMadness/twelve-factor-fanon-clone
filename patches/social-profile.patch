@@ -1,0 +1,27 @@
+diff --git a/vendor/mediawiki/extension-social-profile/SocialProfile.php b/vendor/mediawiki/extension-social-profile/SocialProfile.php
+index 414d496..74f7385 100644
+--- a/vendor/mediawiki/extension-social-profile/SocialProfile.php
++++ b/vendor/mediawiki/extension-social-profile/SocialProfile.php
+@@ -137,14 +137,14 @@ $wgAutoloadClasses['SocialProfileHooks'] = __DIR__ . '/SocialProfileHooks.php';
+
+ // Loader files
+ require_once __DIR__ . '/UserProfile/UserProfile.php'; // Profile page configuration loader file
+-wfLoadExtensions( [
+-	'SocialProfile/SystemGifts', // SystemGifts (awards functionality)
+-	'SocialProfile/UserActivity', // UserActivity - recent social changes
+-	'SocialProfile/UserBoard',
+-	'SocialProfile/UserRelationship',
+-	'SocialProfile/UserStats',
+-	'SocialProfile/UserGifts',
+-] );
++// SystemGifts (awards functionality)
++wfLoadExtension('SocialProfile/SystemGifts', __DIR__.'/SystemGifts/extension.json');
++// UserActivity - recent social changes
++wfLoadExtension('SocialProfile/UserActivity', __DIR__.'/UserActivity/extension.json');
++wfLoadExtension('SocialProfile/UserBoard', __DIR__.'/UserBoard/extension.json');
++wfLoadExtension('SocialProfile/UserRelationship', __DIR__.'/UserRelationship/extension.json');
++wfLoadExtension('SocialProfile/UserStats', __DIR__.'/UserStats/extension.json');
++wfLoadExtension('SocialProfile/UserGifts', __DIR__.'/UserGifts/extension.json');
+
+ $wgHooks['BeforePageDisplay'][] = 'SocialProfileHooks::onBeforePageDisplay';
+ $wgHooks['CanonicalNamespaces'][] = 'SocialProfileHooks::onCanonicalNamespaces';

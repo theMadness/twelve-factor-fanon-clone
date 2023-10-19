@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/wikimedia/minify" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/object-factory" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/cldr-plural-rule-parser" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/services" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/oojs/oojs-ui" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/vendor/pear/mail" />
+      <path value="$PROJECT_DIR$/vendor/pear/net_smtp" />
+      <path value="$PROJECT_DIR$/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/vendor/pear/mail_mime" />
+      <path value="$PROJECT_DIR$/vendor/pear/net_url2" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/vendor/pear/net_socket" />
+      <path value="$PROJECT_DIR$/vendor/liuggio/statsd-php-client" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/zordius/lightncandy" />
+      <path value="$PROJECT_DIR$/vendor/cssjanus/cssjanus" />
+      <path value="$PROJECT_DIR$/vendor/pleonasm/bloom-filter" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/core" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/common-passwords" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/bcp-47-code" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/request-timeout" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/idle-dom" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/ip-utils" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/assert" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/xmp-reader" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/at-ease" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/shellbox" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/wrappedstring" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/cdb" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/remex-html" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/running-stat" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/relpath" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/purtle" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/timestamp" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/base-convert" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/scoped-callback" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/normalized-exception" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/wikipeg" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/parsoid" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/php-session-serializer" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/html-formatter" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/less.php" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/utfnormal" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/zest-css" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/wait-condition-loop" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/ip-set" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/vector-skin" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/minerva-neue-skin" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/timeless-skin" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/mono-book-skin" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/admin-links" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-check-user" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/universal-language-selector" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/babel" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/cirrussearch" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/image-map" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/cldr" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/abuse-filter" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/data-transfer" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/textcat" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/equivset" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/lucene-explain-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/ruflin/elastica" />
+      <path value="$PROJECT_DIR$/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/guzzlestreams" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/ringphp" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/dsn" />
+      <path value="$PROJECT_DIR$/vendor/nessunkim/mediawiki-embed-spotify" />
+      <path value="$PROJECT_DIR$/vendor/universal-omega/dynamic-page-list3" />
+      <path value="$PROJECT_DIR$/vendor/WolfgangFahl/PDFembed" />
+      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/vendor/jayktaylor/mw-discord" />
+      <path value="$PROJECT_DIR$/vendor/majr25/exclude-random" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-interwiki" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-magic-no-cache" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-wiki-editor" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-user-merge" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-echo" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-thanks" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-loops" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-timed-media-handler" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-char-insert" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-parser-functions" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-template-styles" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-two-col-conflict" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/replace-text" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-loop-functions" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-scribunto" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-input-box" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/elastica" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/flow" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-vote-ny" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-page-notice" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-labeled-section-transclusion" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-page-images" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-open-graph-meta" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-page-in-cat" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-nuke" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-oath-auth" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-secure-link-fixer" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-cite-this-page" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-poem" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-description-2" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-code-editor" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-rss-feed" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-json-config" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-category-tree" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-auto-create-category-pages" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-ms-upload" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-blog-page" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-simple-changes" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-tabs" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-link-suggest" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-editcount" />
+      <path value="$PROJECT_DIR$/vendor/edwardspec/mediawiki-moderation" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-confirm-edit" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-widgets" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-header-tabs" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-beta-features" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-wiki-forum" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-visual-editor" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-math" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-cite" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-title-blacklist" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-text-extracts" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-template-data" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-lookup-user" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-poll-ny" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-htm-lets" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/variables" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-lockdown" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-ajax-poll" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-code-mirror" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-random-selection" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-pdf-handler" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-create-page-uw" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/syntax-highlight" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-social-profile" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-comments" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-mobile-frontend" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/tabber-neue" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-spam-blacklist" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-gadgets" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-delete-batch" />
+      <path value="$PROJECT_DIR$/vendor/starcitizenwiki/embedvideo" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/portableinfobox" />
+      <path value="$PROJECT_DIR$/vendor/follesoe/mediawiki-sketchfab-tag-extension" />
+      <path value="$PROJECT_DIR$/vendor/ciencia/mediawiki-extensions-wikidexfilerepository" />
+      <path value="$PROJECT_DIR$/vendor/fuerthwiki/mobile-tabs-plugin" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/clean-changes" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-page-language" />
+      <path value="$PROJECT_DIR$/vendor/mediawiki/extension-popups" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
