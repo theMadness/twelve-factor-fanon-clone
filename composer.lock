@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f1ae0eb13f7c6989d6777a8efe799c81",
+    "content-hash": "881b139f3071b3553241be6ef9a1dcff",
     "packages": [
         {
             "name": "WolfgangFahl/PDFembed",
@@ -506,20 +506,20 @@
         },
         {
             "name": "ezyang/htmlpurifier",
-            "version": "v4.16.0",
+            "version": "v4.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezyang/htmlpurifier.git",
-                "reference": "523407fb06eb9e5f3d59889b3978d5bfe94299c8"
+                "reference": "bbc513d79acf6691fa9cf10f192c90dd2957f18c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/523407fb06eb9e5f3d59889b3978d5bfe94299c8",
-                "reference": "523407fb06eb9e5f3d59889b3978d5bfe94299c8",
+                "url": "https://api.github.com/repos/ezyang/htmlpurifier/zipball/bbc513d79acf6691fa9cf10f192c90dd2957f18c",
+                "reference": "bbc513d79acf6691fa9cf10f192c90dd2957f18c",
                 "shasum": ""
             },
             "require": {
-                "php": "~5.6.0 || ~7.0.0 || ~7.1.0 || ~7.2.0 || ~7.3.0 || ~7.4.0 || ~8.0.0 || ~8.1.0 || ~8.2.0"
+                "php": "~5.6.0 || ~7.0.0 || ~7.1.0 || ~7.2.0 || ~7.3.0 || ~7.4.0 || ~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0"
             },
             "require-dev": {
                 "cerdic/css-tidy": "^1.7 || ^2.0",
@@ -561,9 +561,9 @@
             ],
             "support": {
                 "issues": "https://github.com/ezyang/htmlpurifier/issues",
-                "source": "https://github.com/ezyang/htmlpurifier/tree/v4.16.0"
+                "source": "https://github.com/ezyang/htmlpurifier/tree/v4.17.0"
             },
-            "time": "2022-09-18T07:06:19+00:00"
+            "time": "2023-11-17T15:01:25+00:00"
         },
         {
             "name": "follesoe/mediawiki-sketchfab-tag-extension",
@@ -1243,12 +1243,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-AbuseFilter.git",
-                "reference": "48f520da3c3821cfb2c5537851756eacee236457"
+                "reference": "1344900eaa4dc320643565eaae4be43be7f3c4d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-AbuseFilter/zipball/48f520da3c3821cfb2c5537851756eacee236457",
-                "reference": "48f520da3c3821cfb2c5537851756eacee236457",
+                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-AbuseFilter/zipball/1344900eaa4dc320643565eaae4be43be7f3c4d2",
+                "reference": "1344900eaa4dc320643565eaae4be43be7f3c4d2",
                 "shasum": ""
             },
             "require": {
@@ -1271,15 +1271,15 @@
             "support": {
                 "source": "https://github.com/wikimedia/mediawiki-extensions-AbuseFilter/tree/REL1_40"
             },
-            "time": "2023-10-07T08:12:01+00:00"
+            "time": "2023-11-30T07:41:28+00:00"
         },
         {
             "name": "mediawiki/admin-links",
             "version": "dev-REL1_40",
             "source": {
                 "type": "git",
-                "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/AdminLinks.git",
-                "reference": "75054b0911f05fb7bb9d2264169a3d6a5537b319"
+                "url": "https://github.com/wikimedia/mediawiki-extensions-AdminLinks.git",
+                "reference": "008d550ef2575d3c0382b433e71b2f044bfc9540"
             },
             "require": {
                 "composer/installers": ">=1.0.1"
@@ -1326,7 +1326,7 @@
             "support": {
                 "issues": "https://phabricator.wikimedia.org/"
             },
-            "time": "2023-10-12T06:31:05+00:00"
+            "time": "2023-12-07T07:51:38+00:00"
         },
         {
             "name": "mediawiki/babel",
@@ -1334,12 +1334,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-Babel.git",
-                "reference": "54afecd0139682e37552bf13a29a0e1fe99164c1"
+                "reference": "a4eb3b7be26255ea5cabd89edc21f9f72870de55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-Babel/zipball/54afecd0139682e37552bf13a29a0e1fe99164c1",
-                "reference": "54afecd0139682e37552bf13a29a0e1fe99164c1",
+                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-Babel/zipball/a4eb3b7be26255ea5cabd89edc21f9f72870de55",
+                "reference": "a4eb3b7be26255ea5cabd89edc21f9f72870de55",
                 "shasum": ""
             },
             "require": {
@@ -1374,7 +1374,7 @@
                 "issues": "https://phabricator.wikimedia.org/tag/mediawiki-extensions-babel/",
                 "source": "https://github.com/wikimedia/mediawiki-extensions-Babel/tree/REL1_40"
             },
-            "time": "2023-10-19T05:59:43+00:00"
+            "time": "2023-12-07T07:52:02+00:00"
         },
         {
             "name": "mediawiki/cirrussearch",
@@ -1382,12 +1382,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-CirrusSearch.git",
-                "reference": "c8456b9621077f54958797c6882c0f739e5037b5"
+                "reference": "b933da3146cee484ff812dcf001c24295187b5b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-CirrusSearch/zipball/c8456b9621077f54958797c6882c0f739e5037b5",
-                "reference": "c8456b9621077f54958797c6882c0f739e5037b5",
+                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-CirrusSearch/zipball/b933da3146cee484ff812dcf001c24295187b5b7",
+                "reference": "b933da3146cee484ff812dcf001c24295187b5b7",
                 "shasum": ""
             },
             "require": {
@@ -1411,7 +1411,7 @@
             "support": {
                 "source": "https://github.com/wikimedia/mediawiki-extensions-CirrusSearch/tree/REL1_40"
             },
-            "time": "2023-10-05T06:21:47+00:00"
+            "time": "2023-11-30T07:43:13+00:00"
         },
         {
             "name": "mediawiki/cldr",
@@ -1456,7 +1456,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-CleanChanges.git",
-                "reference": "d1702cad1ea63b3c2b0986fd00541ebad04aef62"
+                "reference": "15f0f1976300e8ec46e7a197d5f5f4c303789639"
             },
             "require": {
                 "composer/installers": ">=1.0.1",
@@ -1492,14 +1492,14 @@
             ],
             "description": "More compact display of recent changes lists",
             "homepage": "https://www.mediawiki.org/wiki/Extension:CleanChanges",
-            "time": "2023-10-12T06:32:42+00:00"
+            "time": "2023-11-30T07:43:18+00:00"
         },
         {
             "name": "mediawiki/core",
             "version": "1.40.1",
             "source": {
                 "type": "git",
-                "url": "https://gerrit.wikimedia.org/r/mediawiki/core.git",
+                "url": "https://github.com/wikimedia/mediawiki.git",
                 "reference": "292a9f74e9447b760ea593f4586c5268d901cc7f"
             },
             "require": {
@@ -1717,12 +1717,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-DataTransfer.git",
-                "reference": "6ae79597a582dcc3845f24132985435449089bdc"
+                "reference": "5e8808e9e9aa1122ee8605d5c7a055e573119dc9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-DataTransfer/zipball/6ae79597a582dcc3845f24132985435449089bdc",
-                "reference": "6ae79597a582dcc3845f24132985435449089bdc",
+                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-DataTransfer/zipball/5e8808e9e9aa1122ee8605d5c7a055e573119dc9",
+                "reference": "5e8808e9e9aa1122ee8605d5c7a055e573119dc9",
                 "shasum": ""
             },
             "require": {
@@ -1804,7 +1804,7 @@
                 "source": "https://phabricator.wikimedia.org/diffusion/EDTR/extension-datatransfer.git",
                 "wiki": "https://www.mediawiki.org/wiki/Extension:Data_Transfer"
             },
-            "time": "2023-10-19T06:00:46+00:00"
+            "time": "2023-12-07T07:54:03+00:00"
         },
         {
             "name": "mediawiki/elastica",
@@ -1924,7 +1924,7 @@
             "version": "dev-REL1_40",
             "source": {
                 "type": "git",
-                "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser.git",
+                "url": "https://github.com/wikimedia/mediawiki-extensions-CheckUser.git",
                 "reference": "REL1_40"
             },
             "type": "mediawiki-skin"
@@ -2535,7 +2535,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-Flow.git",
-                "reference": "256a0bf1627892190dd8e1c69566811581b347c7"
+                "reference": "e6880875898941a7feb3aad01871f804cd1774b5"
             },
             "require": {
                 "pimple/pimple": "3.5.0",
@@ -2572,7 +2572,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Discussion and collaboration system extension for MediaWiki",
-            "time": "2023-10-19T06:01:29+00:00"
+            "time": "2023-12-07T07:54:36+00:00"
         },
         {
             "name": "mediawiki/image-map",
@@ -2611,7 +2611,7 @@
             "version": "dev-REL1_40",
             "source": {
                 "type": "git",
-                "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/MinervaNeue.git",
+                "url": "https://github.com/wikimedia/mediawiki-skins-MinervaNeue.git",
                 "reference": "REL1_40"
             },
             "type": "mediawiki-skin"
@@ -2621,7 +2621,7 @@
             "version": "dev-REL1_40",
             "source": {
                 "type": "git",
-                "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/MonoBook.git",
+                "url": "https://github.com/wikimedia/mediawiki-skins-MonoBook.git",
                 "reference": "REL1_40"
             },
             "type": "mediawiki-skin"
@@ -2670,7 +2670,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-ReplaceText.git",
-                "reference": "05af0bab41f5167d63b9957d58935b08b2f9ec1b"
+                "reference": "dd1daeb495760135744b638592af3d277282eff2"
             },
             "require-dev": {
                 "mediawiki/mediawiki-codesniffer": "41.0.0",
@@ -2697,7 +2697,7 @@
                     "phpcs -sp --cache"
                 ]
             },
-            "time": "2023-10-12T06:35:07+00:00"
+            "time": "2023-11-30T07:46:06+00:00"
         },
         {
             "name": "mediawiki/syntax-highlight",
@@ -2705,7 +2705,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi.git",
-                "reference": "d0cf937d6a39431ff113d708dab08cb496ff8335"
+                "reference": "ded412bd4591681629459dc7f24976303db0f22b"
             },
             "require-dev": {
                 "mediawiki/mediawiki-codesniffer": "41.0.0",
@@ -2757,7 +2757,7 @@
                 }
             ],
             "description": "Syntax highlighting extension for MediaWiki",
-            "time": "2023-09-28T06:29:56+00:00"
+            "time": "2023-11-30T07:46:56+00:00"
         },
         {
             "name": "mediawiki/tabber-neue",
@@ -2765,14 +2765,14 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StarCitizenTools/mediawiki-extensions-TabberNeue.git",
-                "reference": "228752f6c708662d2d0766297287ac66a1d65cdf"
+                "reference": "92c09ced7404e8b310830dbffa71daccda76df7f"
             },
             "require": {
                 "composer/installers": ">=1.0.1"
             },
             "require-dev": {
                 "mediawiki/mediawiki-codesniffer": "41.0.0",
-                "mediawiki/mediawiki-phan-config": "0.12.1",
+                "mediawiki/mediawiki-phan-config": "0.13.0",
                 "mediawiki/minus-x": "1.1.1",
                 "php-parallel-lint/php-console-highlighter": "1.0.0",
                 "php-parallel-lint/php-parallel-lint": "1.3.2"
@@ -2816,14 +2816,14 @@
                 "forum": "https://www.mediawiki.org/wiki/Extension_talk:TabberNeue",
                 "wiki": "https://www.mediawiki.org/wiki/Extension:TabberNeue"
             },
-            "time": "2023-09-05T16:06:55+00:00"
+            "time": "2023-11-22T19:11:31+00:00"
         },
         {
             "name": "mediawiki/timeless-skin",
             "version": "dev-REL1_40",
             "source": {
                 "type": "git",
-                "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/Timeless.git",
+                "url": "https://github.com/wikimedia/mediawiki-skins-Timeless.git",
                 "reference": "REL1_40"
             },
             "type": "mediawiki-skin"
@@ -2834,12 +2834,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector.git",
-                "reference": "5af02caf9dc6095bd9100fdd7e3b9110041d78d8"
+                "reference": "1bcc3fcfa77f1671524357fa1ad2e97ec5382ade"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-UniversalLanguageSelector/zipball/5af02caf9dc6095bd9100fdd7e3b9110041d78d8",
-                "reference": "5af02caf9dc6095bd9100fdd7e3b9110041d78d8",
+                "url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-UniversalLanguageSelector/zipball/1bcc3fcfa77f1671524357fa1ad2e97ec5382ade",
+                "reference": "1bcc3fcfa77f1671524357fa1ad2e97ec5382ade",
                 "shasum": ""
             },
             "require": {
@@ -2874,7 +2874,7 @@
                 "issues": "https://phabricator.wikimedia.org/tag/mediawiki-extensions-universallanguageselector/",
                 "source": "https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector/tree/REL1_40"
             },
-            "time": "2023-10-19T06:04:22+00:00"
+            "time": "2023-12-07T07:57:05+00:00"
         },
         {
             "name": "mediawiki/variables",
@@ -2882,7 +2882,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-extensions-Variables.git",
-                "reference": "2228c92856c953de6aed007a73a9965e42f3d5bf"
+                "reference": "ddd00804f053e5c19188448aab887deef34bd344"
             },
             "require-dev": {
                 "mediawiki/mediawiki-codesniffer": "41.0.0",
@@ -2939,7 +2939,7 @@
                 "source": "https://phabricator.wikimedia.org/diffusion/EVAR/",
                 "irc": "irc://irc.freenode.org/mediawiki"
             },
-            "time": "2023-10-12T06:35:45+00:00"
+            "time": "2023-12-07T07:57:24+00:00"
         },
         {
             "name": "mediawiki/vector-skin",
@@ -2947,12 +2947,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikimedia/mediawiki-skins-Vector.git",
-                "reference": "f2f279786420b594acb52324b9907251a4ab3659"
+                "reference": "0e799bb246cb0a70e11d78ef1de8b88345855359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikimedia/mediawiki-skins-Vector/zipball/f2f279786420b594acb52324b9907251a4ab3659",
-                "reference": "f2f279786420b594acb52324b9907251a4ab3659",
+                "url": "https://api.github.com/repos/wikimedia/mediawiki-skins-Vector/zipball/0e799bb246cb0a70e11d78ef1de8b88345855359",
+                "reference": "0e799bb246cb0a70e11d78ef1de8b88345855359",
                 "shasum": ""
             },
             "require": {
@@ -2997,7 +2997,7 @@
                 "source": "http://gerrit.wikimedia.org/g/mediawiki/skins/Vector",
                 "wiki": "https://www.mediawiki.org/wiki/Skin:Vector"
             },
-            "time": "2023-10-05T06:28:45+00:00"
+            "time": "2023-11-30T07:53:20+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -3686,21 +3686,22 @@
         },
         {
             "name": "pear/pear-core-minimal",
-            "version": "v1.10.13",
+            "version": "v1.10.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/pear-core-minimal.git",
-                "reference": "aed862e95fd286c53cc546734868dc38ff4b5b1d"
+                "reference": "a86fc145edb5caedbf96527214ce3cadc9de4a32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/pear-core-minimal/zipball/aed862e95fd286c53cc546734868dc38ff4b5b1d",
-                "reference": "aed862e95fd286c53cc546734868dc38ff4b5b1d",
+                "url": "https://api.github.com/repos/pear/pear-core-minimal/zipball/a86fc145edb5caedbf96527214ce3cadc9de4a32",
+                "reference": "a86fc145edb5caedbf96527214ce3cadc9de4a32",
                 "shasum": ""
             },
             "require": {
                 "pear/console_getopt": "~1.4",
-                "pear/pear_exception": "~1.0"
+                "pear/pear_exception": "~1.0",
+                "php": ">=5.4"
             },
             "replace": {
                 "rsky/pear-core-min": "self.version"
@@ -3730,7 +3731,7 @@
                 "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=PEAR",
                 "source": "https://github.com/pear/pear-core-minimal"
             },
-            "time": "2023-04-19T19:15:47+00:00"
+            "time": "2023-11-26T16:15:38+00:00"
         },
         {
             "name": "pear/pear_exception",
@@ -4354,23 +4355,23 @@
         },
         {
             "name": "react/promise",
-            "version": "v2.10.0",
+            "version": "v2.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/promise.git",
-                "reference": "f913fb8cceba1e6644b7b90c4bfb678ed8a3ef38"
+                "reference": "1a8460931ea36dc5c76838fec5734d55c88c6831"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/promise/zipball/f913fb8cceba1e6644b7b90c4bfb678ed8a3ef38",
-                "reference": "f913fb8cceba1e6644b7b90c4bfb678ed8a3ef38",
+                "url": "https://api.github.com/repos/reactphp/promise/zipball/1a8460931ea36dc5c76838fec5734d55c88c6831",
+                "reference": "1a8460931ea36dc5c76838fec5734d55c88c6831",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.4.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^9.5 || ^5.7 || ^4.8.36"
+                "phpunit/phpunit": "^9.6 || ^5.7 || ^4.8.36"
             },
             "type": "library",
             "autoload": {
@@ -4414,7 +4415,7 @@
             ],
             "support": {
                 "issues": "https://github.com/reactphp/promise/issues",
-                "source": "https://github.com/reactphp/promise/tree/v2.10.0"
+                "source": "https://github.com/reactphp/promise/tree/v2.11.0"
             },
             "funding": [
                 {
@@ -4422,7 +4423,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-05-02T15:15:43+00:00"
+            "time": "2023-11-16T16:16:50+00:00"
         },
         {
             "name": "ruflin/elastica",
@@ -4495,16 +4496,16 @@
         },
         {
             "name": "starcitizenwiki/embedvideo",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo.git",
-                "reference": "b2bbbb6b9ac128457a40aee736a5bd2aec3e6404"
+                "reference": "41d6c49397400a17ba1b9b89aabce7c08ec0eb1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StarCitizenWiki/mediawiki-extensions-EmbedVideo/zipball/b2bbbb6b9ac128457a40aee736a5bd2aec3e6404",
-                "reference": "b2bbbb6b9ac128457a40aee736a5bd2aec3e6404",
+                "url": "https://api.github.com/repos/StarCitizenWiki/mediawiki-extensions-EmbedVideo/zipball/41d6c49397400a17ba1b9b89aabce7c08ec0eb1c",
+                "reference": "41d6c49397400a17ba1b9b89aabce7c08ec0eb1c",
                 "shasum": ""
             },
             "require": {
@@ -4529,22 +4530,22 @@
             "description": "Adds a parser function embedding video from popular sources.",
             "support": {
                 "issues": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/issues",
-                "source": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/tree/v3.3.0"
+                "source": "https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/tree/v3.4.0"
             },
-            "time": "2023-08-26T19:35:04+00:00"
+            "time": "2023-11-09T09:16:56+00:00"
         },
         {
             "name": "symfony/console",
-            "version": "v6.3.4",
+            "version": "v6.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "eca495f2ee845130855ddf1cf18460c38966c8b6"
+                "reference": "a550a7c99daeedef3f9d23fb82e3531525ff11fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/eca495f2ee845130855ddf1cf18460c38966c8b6",
-                "reference": "eca495f2ee845130855ddf1cf18460c38966c8b6",
+                "url": "https://api.github.com/repos/symfony/console/zipball/a550a7c99daeedef3f9d23fb82e3531525ff11fd",
+                "reference": "a550a7c99daeedef3f9d23fb82e3531525ff11fd",
                 "shasum": ""
             },
             "require": {
@@ -4552,7 +4553,7 @@
                 "symfony/deprecation-contracts": "^2.5|^3",
                 "symfony/polyfill-mbstring": "~1.0",
                 "symfony/service-contracts": "^2.5|^3",
-                "symfony/string": "^5.4|^6.0"
+                "symfony/string": "^5.4|^6.0|^7.0"
             },
             "conflict": {
                 "symfony/dependency-injection": "<5.4",
@@ -4566,12 +4567,16 @@
             },
             "require-dev": {
                 "psr/log": "^1|^2|^3",
-                "symfony/config": "^5.4|^6.0",
-                "symfony/dependency-injection": "^5.4|^6.0",
-                "symfony/event-dispatcher": "^5.4|^6.0",
-                "symfony/lock": "^5.4|^6.0",
-                "symfony/process": "^5.4|^6.0",
-                "symfony/var-dumper": "^5.4|^6.0"
+                "symfony/config": "^5.4|^6.0|^7.0",
+                "symfony/dependency-injection": "^5.4|^6.0|^7.0",
+                "symfony/event-dispatcher": "^5.4|^6.0|^7.0",
+                "symfony/http-foundation": "^6.4|^7.0",
+                "symfony/http-kernel": "^6.4|^7.0",
+                "symfony/lock": "^5.4|^6.0|^7.0",
+                "symfony/messenger": "^5.4|^6.0|^7.0",
+                "symfony/process": "^5.4|^6.0|^7.0",
+                "symfony/stopwatch": "^5.4|^6.0|^7.0",
+                "symfony/var-dumper": "^5.4|^6.0|^7.0"
             },
             "type": "library",
             "autoload": {
@@ -4605,7 +4610,7 @@
                 "terminal"
             ],
             "support": {
-                "source": "https://github.com/symfony/console/tree/v6.3.4"
+                "source": "https://github.com/symfony/console/tree/v6.4.1"
             },
             "funding": [
                 {
@@ -4621,11 +4626,11 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-08-16T10:10:12+00:00"
+            "time": "2023-11-30T10:54:28+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
-            "version": "v3.3.0",
+            "version": "v3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/deprecation-contracts.git",
@@ -4672,7 +4677,7 @@
             "description": "A generic function and convention to trigger deprecation notices",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.3.0"
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.4.0"
             },
             "funding": [
                 {
@@ -4692,16 +4697,16 @@
         },
         {
             "name": "symfony/dotenv",
-            "version": "v6.3.0",
+            "version": "v6.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dotenv.git",
-                "reference": "ceadb434fe2a6763a03d2d110441745834f3dd1e"
+                "reference": "d0d584a91422ddaa2c94317200d4c4e5b935555f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dotenv/zipball/ceadb434fe2a6763a03d2d110441745834f3dd1e",
-                "reference": "ceadb434fe2a6763a03d2d110441745834f3dd1e",
+                "url": "https://api.github.com/repos/symfony/dotenv/zipball/d0d584a91422ddaa2c94317200d4c4e5b935555f",
+                "reference": "d0d584a91422ddaa2c94317200d4c4e5b935555f",
                 "shasum": ""
             },
             "require": {
@@ -4712,8 +4717,8 @@
                 "symfony/process": "<5.4"
             },
             "require-dev": {
-                "symfony/console": "^5.4|^6.0",
-                "symfony/process": "^5.4|^6.0"
+                "symfony/console": "^5.4|^6.0|^7.0",
+                "symfony/process": "^5.4|^6.0|^7.0"
             },
             "type": "library",
             "autoload": {
@@ -4746,7 +4751,7 @@
                 "environment"
             ],
             "support": {
-                "source": "https://github.com/symfony/dotenv/tree/v6.3.0"
+                "source": "https://github.com/symfony/dotenv/tree/v6.4.0"
             },
             "funding": [
                 {
@@ -4762,7 +4767,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-04-21T14:41:17+00:00"
+            "time": "2023-10-26T18:19:48+00:00"
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
@@ -5255,16 +5260,16 @@
         },
         {
             "name": "symfony/string",
-            "version": "v6.3.5",
+            "version": "v6.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/string.git",
-                "reference": "13d76d0fb049051ed12a04bef4f9de8715bea339"
+                "reference": "b45fcf399ea9c3af543a92edf7172ba21174d809"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/string/zipball/13d76d0fb049051ed12a04bef4f9de8715bea339",
-                "reference": "13d76d0fb049051ed12a04bef4f9de8715bea339",
+                "url": "https://api.github.com/repos/symfony/string/zipball/b45fcf399ea9c3af543a92edf7172ba21174d809",
+                "reference": "b45fcf399ea9c3af543a92edf7172ba21174d809",
                 "shasum": ""
             },
             "require": {
@@ -5278,11 +5283,11 @@
                 "symfony/translation-contracts": "<2.5"
             },
             "require-dev": {
-                "symfony/error-handler": "^5.4|^6.0",
-                "symfony/http-client": "^5.4|^6.0",
-                "symfony/intl": "^6.2",
+                "symfony/error-handler": "^5.4|^6.0|^7.0",
+                "symfony/http-client": "^5.4|^6.0|^7.0",
+                "symfony/intl": "^6.2|^7.0",
                 "symfony/translation-contracts": "^2.5|^3.0",
-                "symfony/var-exporter": "^5.4|^6.0"
+                "symfony/var-exporter": "^5.4|^6.0|^7.0"
             },
             "type": "library",
             "autoload": {
@@ -5321,7 +5326,7 @@
                 "utf8"
             ],
             "support": {
-                "source": "https://github.com/symfony/string/tree/v6.3.5"
+                "source": "https://github.com/symfony/string/tree/v6.4.0"
             },
             "funding": [
                 {
@@ -5337,7 +5342,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-18T10:38:32+00:00"
+            "time": "2023-11-28T20:41:49+00:00"
         },
         {
             "name": "symfony/yaml",
