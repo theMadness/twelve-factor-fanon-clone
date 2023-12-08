@@ -111,11 +111,11 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://gerrit.wikimedia.org/r/mediawiki/core.git"
+      "url": "https://github.com/wikimedia/mediawiki.git"
     },
     {
       "type": "git",
-      "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/AdminLinks.git"
+      "url": "https://github.com/wikimedia/mediawiki-extensions-AdminLinks.git"
     },
     {
       "type": "git",
@@ -1131,7 +1131,7 @@
         "version": "dev-REL1_40",
         "source": {
           "type": "git",
-          "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser.git",
+          "url": "https://github.com/wikimedia/mediawiki-extensions-CheckUser.git",
           "reference": "REL1_40"
         }
       }
@@ -1144,7 +1144,7 @@
         "version": "dev-REL1_40",
         "source": {
           "type": "git",
-          "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/MinervaNeue.git",
+          "url": "https://github.com/wikimedia/mediawiki-skins-MinervaNeue.git",
           "reference": "REL1_40"
         }
       }
@@ -1157,7 +1157,7 @@
         "version": "dev-REL1_40",
         "source": {
           "type": "git",
-          "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/MonoBook.git",
+          "url": "https://github.com/wikimedia/mediawiki-skins-MonoBook.git",
           "reference": "REL1_40"
         }
       }
@@ -1170,7 +1170,7 @@
         "version": "dev-REL1_40",
         "source": {
           "type": "git",
-          "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/Timeless.git",
+          "url": "https://github.com/wikimedia/mediawiki-skins-Timeless.git",
           "reference": "REL1_40"
         }
       }
