@@ -66,3 +66,6 @@ $wgAuthenticationTokenVersion = "1";
 
 # Path to the GNU diff3 utility. Used for conflict resolution.
 $wgDiff3 = "/usr/bin/diff3";
+
+$wgUploadPath = "/en/contentFiles";
+$wgUploadDirectory = __DIR__.'/../public/en/contentFiles';
