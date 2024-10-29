@@ -52,7 +52,6 @@ wfLoadExtension('MagicNoCache', __DIR__ . '/../vendor/mediawiki/extension-magic-
 wfLoadExtension('Math', __DIR__ . '/../vendor/mediawiki/extension-math/extension.json');
 wfLoadExtension('MsUpload', __DIR__ . '/../vendor/mediawiki/extension-ms-upload/extension.json');
 wfLoadExtension('OpenGraphMeta', __DIR__ . '/../vendor/mediawiki/extension-open-graph-meta/extension.json');
-wfLoadExtension('PageInCat', __DIR__ . '/../vendor/mediawiki/extension-page-in-cat/extension.json');
 wfLoadExtension('ParserFunctions', __DIR__ . '/../vendor/mediawiki/extension-parser-functions/extension.json');
 $wgPFEnableStringFunctions = true;
 wfLoadExtension('PDFEmbed', __DIR__ . '/../vendor/WolfgangFahl/PDFembed/extension.json');
@@ -64,8 +63,7 @@ wfLoadExtension('Scribunto', __DIR__ . '/../vendor/mediawiki/extension-scribunto
 $wgScribuntoDefaultEngine = 'luastandalone';
 wfLoadExtension('Sketchfab', __DIR__ . '/../vendor/follesoe/mediawiki-sketchfab-tag-extension/Sketchfab/extension.json');
 wfLoadExtension('SyntaxHighlight', __DIR__ . '/../vendor/mediawiki/syntax-highlight/extension.json');
-wfLoadExtension('TabberNeue', __DIR__ . '/../vendor/mediawiki/tabber-neue/extension.json');
-wfLoadExtension('Tabs', __DIR__ . '/../vendor/mediawiki/extension-tabs/extension.json');
+wfLoadExtension('TabberNeue', __DIR__ . '/../vendor/starcitizentools/tabber-neue/extension.json');
 wfLoadExtension('TemplateData', __DIR__ . '/../vendor/mediawiki/extension-template-data/extension.json');
 wfLoadExtension('TemplateStyles', __DIR__ . '/../vendor/mediawiki/extension-template-styles/extension.json');
 wfLoadExtension('Variables', __DIR__ . '/../vendor/mediawiki/variables/extension.json');

@@ -2,7 +2,7 @@ diff --git a/vendor/mediawiki/extension-social-profile/SocialProfile.php b/vendo
 index 414d496..74f7385 100644
 --- a/vendor/mediawiki/extension-social-profile/SocialProfile.php
 +++ b/vendor/mediawiki/extension-social-profile/SocialProfile.php
-@@ -137,14 +137,14 @@ $wgAutoloadClasses['SocialProfileHooks'] = __DIR__ . '/SocialProfileHooks.php';
+@@ -139,14 +139,14 @@ $wgAutoloadClasses['SocialProfileHooks'] = __DIR__ . '/SocialProfileHooks.php';
 
  // Loader files
  require_once __DIR__ . '/UserProfile/UserProfile.php'; // Profile page configuration loader file
