@@ -1,0 +1,9 @@
+{
+  "smarty/smarty": "~4.5.3",
+  "christian-riesen/base32": "^1.4.0",
+  "endroid/qr-code": "5.1.0",
+  "jakobo/hotp-php": "2.0.0",
+  "james-heinrich/getid3": "v1.9.23",
+  "firebase/php-jwt": "6.10.0",
+  "wikimedia/css-sanitizer": "^5.5.0"
+}

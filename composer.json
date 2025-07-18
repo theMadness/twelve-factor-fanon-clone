@@ -7,11 +7,16 @@
     }
   ],
   "require": {
+    "christian-riesen/base32": "^1.4.0",
     "ciencia/mediawiki-extensions-wikidexfilerepository": "dev-main@dev",
     "cweagans/composer-patches": "^1.7",
     "edwardspec/mediawiki-moderation": "dev-REL1_44@dev",
+    "endroid/qr-code": "5.1.0",
+    "firebase/php-jwt": "6.10.0",
     "follesoe/mediawiki-sketchfab-tag-extension": "dev-main@dev",
     "fuerthwiki/mobile-tabs-plugin": "dev-main@dev",
+    "jakobo/hotp-php": "2.0.0",
+    "james-heinrich/getid3": "v1.9.23",
     "jayktaylor/mw-discord": "dev-REL1_39@dev",
     "majr25/exclude-random": "dev-main@dev",
     "mediawiki/abuse-filter": "dev-REL1_44@dev",
@@ -100,11 +105,13 @@
     "mediawiki/variables": "dev-REL1_44@dev",
     "mediawiki/vector-skin": "dev-REL1_44@dev",
     "nessunkim/mediawiki-embed-spotify": "dev-main@dev",
+    "smarty/smarty": "~4.5.3",
     "starcitizentools/tabber-neue": "^2.5",
     "starcitizenwiki/embedvideo": "^3.3.0",
     "symfony/console": "^6.3",
     "symfony/dotenv": "^6.3",
     "universal-omega/dynamic-page-list3": "^3.6.4",
+    "wikimedia/css-sanitizer": "^5.5.0",
     "wolfgangfahl/pdfembed": "^3.0"
   },
   "repositories": [
