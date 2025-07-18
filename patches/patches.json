@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "mediawiki/core": {
+      "Remove composer check": "patches/vendor-check.patch"
+    }
+  }
+}

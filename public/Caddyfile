@@ -1,7 +1,11 @@
+#{
+#    debug
+#}
+
 :2015
 
 log
-
 encode zstd gzip
-php_fastcgi unix//run/php/php8.1-fpm.sock
+root * .
+php_fastcgi unix//run/php/php8.3-fpm.sock
 file_server

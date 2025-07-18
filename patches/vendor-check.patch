@@ -1,12 +1,11 @@
-diff --git a/vendor/mediawiki/core/includes/PHPVersionCheck.php b/vendor/mediawiki/core/includes/PHPVersionCheck.php
-index d6cc81c..f34bc7b 100644
---- a/vendor/mediawiki/core/includes/PHPVersionCheck.php
-+++ b/vendor/mediawiki/core/includes/PHPVersionCheck.php
-@@ -154,6 +154,7 @@ HTML;
+diff --git a/includes/PHPVersionCheck.php b/includes/PHPVersionCheck.php
+--- a/includes/PHPVersionCheck.php
++++ b/includes/PHPVersionCheck.php
+@@ -154,6 +154,7 @@
  	 * Displays an error, if the vendor/autoload.php file could not be found.
  	 */
  	function checkVendorExistence() {
-+        return;
++		return;
  		if ( !file_exists( dirname( __FILE__ ) . '/../vendor/autoload.php' ) ) {
  			$cliText = "Error: You are missing some external dependencies. \n"
  				. "MediaWiki has external dependencies that need to be installed via Composer\n"
