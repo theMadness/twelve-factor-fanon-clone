@@ -106,7 +106,7 @@
     "mediawiki/vector-skin": "dev-REL1_44@dev",
     "nessunkim/mediawiki-embed-spotify": "dev-main@dev",
     "smarty/smarty": "~4.5.3",
-    "starcitizentools/tabber-neue": "^2.5",
+    "starcitizentools/tabber-neue": "^3.3",
     "starcitizenwiki/embedvideo": "^3.3.0",
     "symfony/console": "^6.3",
     "symfony/dotenv": "^6.3",
