@@ -1,0 +1,12 @@
+diff --git a/vendor/jayktaylor/mw-discord/src/Utils.php b/vendor/jayktaylor/mw-discord/src/Utils.php
+index: vendor/jayktaylor/mw-discord/src/Utils.php
+--- a/vendor/jayktaylor/mw-discord/src/Utils.php
++++ b/vendor/jayktaylor/mw-discord/src/Utils.php	(date 1752839680957)
+@@ -1,6 +1,7 @@
+ <?php
+
+ use MediaWiki\MediaWikiServices;
++use MediaWiki\Title\Title;
+ use MediaWiki\User\UserIdentity;
+
+ class DiscordUtils {
