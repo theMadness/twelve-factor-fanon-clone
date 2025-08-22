@@ -1154,7 +1154,6 @@
   ],
   "scripts": {
     "auto-scripts": [
-      "patch --forward -p1 < patches/vendor-check.patch",
       "git -C vendor/mediawiki/extension-visual-editor submodule deinit --all -f",
       "git -C ./vendor/mediawiki/extension-visual-editor submodule update --init"
     ],
